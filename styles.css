@@ -84,7 +84,6 @@ ul {
   li.date {
     h3 {
       font-size:0.9rem;
-      color:rgb(50, 50, 50);
       margin:1rem 0;
     }
   }
@@ -93,7 +92,7 @@ ul {
     font-family: "FigTreeExtraBold";
     font-weight:800;
     h1 {
-      /* font-size:1.2rem; */
+      font-size:1.5rem;
       font-weight:bolder;
       margin:1rem 0;
     }
@@ -101,8 +100,10 @@ ul {
 
   li.card-desc {
     p {
-      font-size:1rem;
       margin:1rem 0;
+      font-size:1rem;
+      color:gray;
+      font-weight:600;
     }
   }
   li.author {
