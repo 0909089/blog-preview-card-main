@@ -131,7 +131,6 @@ ul {
 @media screen and (max-width:25rem) {
   section {
     max-width:300px;
-    background:red;
 
     ul {
       li.title {
